@@ -8,11 +8,11 @@ div.content h1 {
     font-weight: bold;
     color: #1a1c1d;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 50px 0 50 px 0;
+    padding: 50px 0 50px 0;
 }
 
 div.content {
-    margin: 50 px;
+    margin: 50px;
 }
 
 div.content p {
@@ -23,7 +23,7 @@ figure {
     border: 2px solid #1e1f21;
     border-radius: 5px;
     background-color: rgb(54, 54, 62);
-    padding: 20 px 20 px 20 px 20 px;
+    padding: 20px 20px 20px 20px;
 }
 
 figure img {
@@ -115,5 +115,5 @@ div.footer a.cc-list {
 div.footer img.cc {
     height: 15px !important;
     margin-left: 3px;
-    text-align: text-bottom;
+    vertical-align: text-bottom;
 }
